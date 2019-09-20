@@ -1,0 +1,108 @@
+{
+    "Extensions": [
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 1,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Hide My IP",
+            "id": "pekcnopmdcbjdgmpnpkndppflpldnkkp",
+            "version": "1.0.31",
+            "enabled": false
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 1,
+            "installed_by_custodian": false,
+            "update_url": "http://clients2.google.com/service/update2/crx",
+            "name": "Google Mail Checker",
+            "id": "mihcahmgecmbnbcchbopgniflfhgnkff",
+            "version": "4.4.0",
+            "enabled": false
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 1,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Google Translate",
+            "id": "aapbdbdomjkkjkaonfhkkikfgjllcleb",
+            "version": "2.0.7",
+            "enabled": false
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 1,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Google Quick Scroll",
+            "id": "okanipcmceoeemlbjnmnbdibhgpbllgc",
+            "version": "42.1",
+            "enabled": false
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 1,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Web Developer",
+            "id": "bfbameneiokkgbdmiekhjnmfkcnldhhm",
+            "version": "0.5",
+            "enabled": false
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 1,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Google +1 Button",
+            "id": "jgoepmocgafhnchmokaimcmlojpnlkhp",
+            "version": "1.3.0.731",
+            "enabled": false
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 3,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "AdBlock",
+            "id": "gighmmpiobklfepjocnamgkkbiglidom",
+            "version": "3.55.1",
+            "enabled": false
+}
+    ],
+    "Extension Settings": [
+        {
+            "extension_id": "mmffncokckfccddfenhkhnllmlobdahm",
+            "value": "\"b30ce021-d2fd-c538-63d4-e3e156cd0bc5\"",
+            "key": "pref/install-uuid"
+},
+        {
+            "extension_id": "mmffncokckfccddfenhkhnllmlobdahm",
+            "value": "\"6.9.0\"",
+            "key": "pref/last-version"
+},
+        {
+            "extension_id": "pekcnopmdcbjdgmpnpkndppflpldnkkp",
+            "value": "\"b67625bfdf95f2add554fd29682b615bef9281b179a4c654bdd33e7970bd27\"",
+            "key": "uniqueid"
+},
+        {
+            "extension_id": "pekcnopmdcbjdgmpnpkndppflpldnkkp",
+            "value": "{\"bPreventLeak\":true,\"cur_list\":\"list1\"}",
+            "key": "some_options"
+},
+        {
+            "extension_id": "mmffncokckfccddfenhkhnllmlobdahm",
+            "value": "1350705209817.0",
+            "key": "pref/install-time"
+}
+    ]
+}

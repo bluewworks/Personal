@@ -1,0 +1,406 @@
+{
+    "Apps": [
+        {
+            "app_launch_ordinal": "zzx",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 1,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Google Finance",
+                        "id": "fcgckldmmjdbpdejkclmfnnnehhocbfp",
+                        "version": "1.3",
+                        "enabled": false
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "yg",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 1,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Google Maps",
+                        "id": "lneaknkopdijkpnocmklfnjbeapigfbh",
+                        "version": "5.4.1",
+                        "enabled": false
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "t",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "",
+                        "name": "Web Store",
+                        "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+                        "version": "0.2",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzm",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 1,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Google Play",
+                        "id": "komhbcfkdcgmcdoenjcjheifdiabikfi",
+                        "version": "3.1",
+                        "enabled": false
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzv",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 1,
+                        "installed_by_custodian": false,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Google News",
+                        "id": "dllkocilcinkggkchnjgegijklcililc",
+                        "version": "3.1",
+                        "enabled": false
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zs",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 1,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "HTTP Archive Viewer",
+                        "id": "ebbdbdmhegaoooipfnjikefdpeoaidml",
+                        "version": "1.3",
+                        "enabled": false
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "w",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 1,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Telegram",
+                        "id": "clhhggbfdinjmjhajaheehoeibfljjno",
+                        "version": "0.5.7.1",
+                        "enabled": false
+            },
+            "page_ordinal": "t"
+},
+        {
+            "app_launch_ordinal": "zzy",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 1,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Chrome Remote Desktop",
+                        "id": "gbchcmhmhahfdphkhkmpfmihenigjmpp",
+                        "version": "77.0.3836.0",
+                        "enabled": false
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzyn",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 1,
+                        "installed_by_custodian": false,
+                        "update_url": "",
+                        "name": "WordPress.com",
+                        "id": "jngpdldinpkemppfmelfbicfhdgemjca",
+                        "version": "0",
+                        "enabled": false
+            },
+            "bookmark_app_icon_color": "#0DA3D6",
+            "linked_app_icons": [
+                        {
+                                    "size": 32,
+                                    "url": "https://wordpress.com/calypso/images/manifest/icon-144x144.png?source\u003dpwa"
+                        },
+                        {
+                                    "size": 48,
+                                    "url": "https://wordpress.com/calypso/images/manifest/icon-144x144.png?source\u003dpwa"
+                        },
+                        {
+                                    "size": 64,
+                                    "url": "https://wordpress.com/calypso/images/manifest/icon-144x144.png?source\u003dpwa"
+                        },
+                        {
+                                    "size": 96,
+                                    "url": "https://wordpress.com/calypso/images/manifest/icon-144x144.png?source\u003dpwa"
+                        },
+                        {
+                                    "size": 128,
+                                    "url": "https://wordpress.com/calypso/images/manifest/icon-144x144.png?source\u003dpwa"
+                        },
+                        {
+                                    "size": 144,
+                                    "url": "https://wordpress.com/calypso/images/manifest/icon-144x144.png?source\u003dpwa"
+                        },
+                        {
+                                    "size": 192,
+                                    "url": "https://wordpress.com/calypso/images/manifest/icon-192x192.png?source\u003dpwa"
+                        },
+                        {
+                                    "size": 256,
+                                    "url": "https://wordpress.com/calypso/images/manifest/icon-512x512.png?source\u003dpwa"
+                        },
+                        {
+                                    "size": 512,
+                                    "url": "https://wordpress.com/calypso/images/manifest/icon-512x512.png?source\u003dpwa"
+                        }
+            ],
+            "bookmark_app_theme_color": -16746306,
+            "bookmark_app_scope": "https://wordpress.com/",
+            "page_ordinal": "n",
+            "bookmark_app_url": "https://wordpress.com/?source\u003dpwa",
+            "launch_type": "WINDOW"
+}
+    ],
+    "App Settings": [
+        {"extension_setting": {
+            "extension_id": "gbchcmhmhahfdphkhkmpfmihenigjmpp",
+            "value": "{\"hidden\":true,\"index\":0,\"timestamp\":1537928286325.0}",
+            "key": "message-state"
+}}
+    ],
+    "Preferences": [
+        {
+            "name": "enable_do_not_track",
+            "value": "true"
+},
+        {
+            "name": "ios.speechinput.voicesearch_locale",
+            "value": "\"\""
+},
+        {
+            "name": "autofill.last_version_disused_addresses_deleted",
+            "value": "70"
+},
+        {
+            "name": "autofill.credit_card_enabled",
+            "value": "false"
+},
+        {
+            "name": "autofill.profile_enabled",
+            "value": "false"
+},
+        {
+            "name": "browser.clear_data.time_period",
+            "value": "4"
+},
+        {
+            "name": "autofill.last_version_validated",
+            "value": "74"
+},
+        {
+            "name": "profile.block_third_party_cookies",
+            "value": "false"
+},
+        {
+            "name": "translate_force_trigger_on_english_count_for_backoff_1",
+            "value": "-1"
+},
+        {
+            "name": "media_router.firstrunflow.acknowledged",
+            "value": "true"
+},
+        {
+            "name": "profile.avatar_index",
+            "value": "26"
+},
+        {
+            "name": "extensions.commands",
+            "value": "{\"windows:Ctrl+Period\":{\"command_name\":\"toggle_pause\",\"extension\":\"gighmmpiobklfepjocnamgkkbiglidom\",\"global\":false}}"
+},
+        {
+            "name": "profile.content_settings.exceptions.javascript",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.cookies",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.flash_data",
+            "value": "{}"
+},
+        {
+            "name": "profile.using_default_avatar",
+            "value": "false"
+},
+        {
+            "name": "session.startup_urls",
+            "value": "[\"http://search.babylon.com/?affID\u003d111442\u0026tt\u003d4312_7\u0026babsrc\u003dHP_ss\u0026mntrId\u003d92b85871000000000000c01885298efb\",\"http://www.google.com/\"]"
+},
+        {
+            "name": "default_search_provider.synced_guid",
+            "value": "\"2D0F12E4-0825-413B-A29C-75AEEE4946A9\""
+},
+        {
+            "name": "profile.using_gaia_avatar",
+            "value": "true"
+},
+        {
+            "name": "media_router.cloudservices.prefset",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.images",
+            "value": "{}"
+},
+        {
+            "name": "profile.name",
+            "value": "\"Person 1\""
+},
+        {
+            "name": "profile.content_settings.exceptions.plugins",
+            "value": "{}"
+},
+        {
+            "name": "ntp.app_page_names",
+            "value": "[\"Apps\"]"
+},
+        {
+            "name": "media_router.cloudservices.enabled",
+            "value": "true"
+},
+        {
+            "name": "payments.can_make_payment_enabled",
+            "value": "true"
+},
+        {
+            "name": "ios.dns_prefetching.wifi_only",
+            "value": "false"
+},
+        {
+            "name": "dns_prefetching.enabled",
+            "value": "true"
+},
+        {
+            "name": "extensions.ui.developer_mode",
+            "value": "true"
+},
+        {
+            "name": "suggestions.articles_enabled",
+            "value": "false"
+},
+        {
+            "name": "browser.clear_data.cookies",
+            "value": "true"
+},
+        {
+            "name": "bookmark_bar.show_on_all_tabs",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.time_period_basic",
+            "value": "4"
+},
+        {
+            "name": "homepage",
+            "value": "\"https://datawworks.wordpress.com/\""
+},
+        {
+            "name": "extensions.toolbar",
+            "value": "[\"pekcnopmdcbjdgmpnpkndppflpldnkkp\",\"mihcahmgecmbnbcchbopgniflfhgnkff\",\"okanipcmceoeemlbjnmnbdibhgpbllgc\",\"lnlgojabfogikedjanecphloghlegpdm\",\"iinajggebnpcjfblgfiajejickbbenck\",\"jlbelbopjpeabpbccbjkkifdlefmhhno\",\"ijeibjibmdjkdnkhejginednfongmdgj\",\"opeanpgmcgekkfmimhcjgnejophicnjn\",\"cimejbncgccldalkphhmnglhnllhmjof\",\"ejgfoklefkbjadjcgjmnhfbdfjolojnn\",\"jgoepmocgafhnchmokaimcmlojpnlkhp\",\"aapbdbdomjkkjkaonfhkkikfgjllcleb\",\"bfbameneiokkgbdmiekhjnmfkcnldhhm\",\"gighmmpiobklfepjocnamgkkbiglidom\",\"eekjldapjblgadclklmgolijbagmdnfk\",\"jkhkagcnibfcmmmlljgbhgfldlckdlin\",\"ccpafgpeapheifnainfhmgljnglcjfoh\",\"efaidnbmnnnibpcajpcglclefindmkaj\",\"media_router_action\"]"
+},
+        {
+            "name": "browser.clear_data.browsing_history_basic",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.cache_basic",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.cache",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.download_history",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.site_settings",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.automatic_downloads",
+            "value": "{}"
+},
+        {
+            "name": "browser.clear_data.hosted_apps_data",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.passwords",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.browsing_history",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.form_data",
+            "value": "true"
+},
+        {
+            "name": "plugins.always_open_pdf_externally",
+            "value": "true"
+},
+        {
+            "name": "download.prompt_for_download",
+            "value": "true"
+},
+        {
+            "name": "custom_links.initialized",
+            "value": "false"
+},
+        {
+            "name": "browser.show_home_button",
+            "value": "true"
+},
+        {
+            "name": "translate_site_blacklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.popups",
+            "value": "{\"https://openvellum.ecollege.com:443,*\":{\"last_modified\":\"13212501779159731\",\"setting\":1}}"
+},
+        {
+            "name": "translate_ignored_count_for_language",
+            "value": "{\"ca\":1,\"fr\":1,\"zh-CN\":1}"
+}
+    ],
+    "Themes": [
+        {
+            "use_system_theme_by_default": false,
+            "use_custom_theme": false
+}
+    ],
+    "Managed Users": []
+}
